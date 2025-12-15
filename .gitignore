@@ -1,0 +1,15 @@
+db_postgres.env# NODE
+node_modules
+package-lock.json
+yarn.lock
+
+# APPLICATION
+data/
+.env
+db_postgres.env
+evolution_api.env
+sessiondata
+
+# IDEs
+.vscode/settings.json
+.idea
